@@ -2,7 +2,7 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " ",]
 index = 3
 
 def position_taken?(board, index)
-  elsif board[index] == " " || ""
+  if board[index] == " " || ""
     return false
   elsif board[index] == "X" || "O"
     return true
