@@ -1,5 +1,5 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-def position_taken(board, index = gets.strip)?
+def position_taken()?
   frog
 end
